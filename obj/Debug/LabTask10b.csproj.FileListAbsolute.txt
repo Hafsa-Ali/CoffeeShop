@@ -1,0 +1,7 @@
+C:\Users\saad\Desktop\Hafsa Ali\7th Semester\Software Development Construction Lab\Lab 11\LabTask10b\LabTask10b\bin\Debug\LabTask10b.exe.config
+C:\Users\saad\Desktop\Hafsa Ali\7th Semester\Software Development Construction Lab\Lab 11\LabTask10b\LabTask10b\bin\Debug\LabTask10b.exe
+C:\Users\saad\Desktop\Hafsa Ali\7th Semester\Software Development Construction Lab\Lab 11\LabTask10b\LabTask10b\bin\Debug\LabTask10b.pdb
+C:\Users\saad\Desktop\Hafsa Ali\7th Semester\Software Development Construction Lab\Lab 11\LabTask10b\LabTask10b\obj\Debug\LabTask10b.csproj.AssemblyReference.cache
+C:\Users\saad\Desktop\Hafsa Ali\7th Semester\Software Development Construction Lab\Lab 11\LabTask10b\LabTask10b\obj\Debug\LabTask10b.csproj.CoreCompileInputs.cache
+C:\Users\saad\Desktop\Hafsa Ali\7th Semester\Software Development Construction Lab\Lab 11\LabTask10b\LabTask10b\obj\Debug\LabTask10b.exe
+C:\Users\saad\Desktop\Hafsa Ali\7th Semester\Software Development Construction Lab\Lab 11\LabTask10b\LabTask10b\obj\Debug\LabTask10b.pdb
